@@ -2,70 +2,54 @@
 
 ### Computer Engineering Student | Aspiring Cybersecurity Professional
 
-I am a Computer Engineering student at **Kwame Nkrumah University of Science and Technology (KNUST)**, building a strong technical foundation with a focused career direction in **cybersecurity**.
+I am a Computer Engineering student at Kwame Nkrumah University of Science and Technology (KNUST), with a growing interest in cybersecurity and secure technology.
 
-I am developing my skills through structured learning, hands-on projects, experimentation, problem-solving, and technical documentation.
+I am currently developing my technical skills through learning, hands-on practice, personal projects, and continuous experimentation. This GitHub profile serves as a place to document that journey and the things I build along the way.
 
-## 🔐 Current Focus
+## 🔐 Areas of Interest
 
-* 🐍 Python programming
-* 💻 Computer systems
-* 🌐 Networking fundamentals
-* 🐧 Linux
-* 🔐 Cybersecurity fundamentals
-* 🔧 Git & GitHub
-* 🛠️ Practical engineering and security-oriented projects
+- Cybersecurity
+- Programming
+- Computer Systems
+- Networking
+- Secure Technology
+- Cloud Security
+- AI & Security
+
+## 🛠️ Current Focus
+
+I am currently strengthening my technical foundations and gradually building practical skills in computing and cybersecurity.
+
+My approach is simple:
+
+**Learn → Practice → Build → Document → Improve**
+
+## 📂 My Work
+
+As I progress, I will use this profile to document:
+
+- Learning exercises
+- Personal projects
+- Experiments and practical work
+- Technical notes
+- Challenges and solutions
+- Security-related projects
+- Lessons learned along the way
 
 ## 🚀 Career Direction
 
 **Cybersecurity → Cloud Security → AI Security**
 
-My goal is to build strong fundamentals before progressing into advanced security specializations.
+My goal is to build strong fundamentals, gain practical experience, and continuously develop into a well-rounded cybersecurity professional.
 
-## 🛠️ Technologies & Tools
+## 📈 My Journey
 
-### Currently Learning
+This profile is a work in progress.
 
-* Python
-* Git & GitHub
-* Linux
-* Networking
+I am starting from the fundamentals and will continue to update my repositories as my knowledge, skills, and projects grow.
 
-### Previous / Current Technical Experience
-
-* HTML & CSS
-* Arduino
-* MATLAB
-* KiCad
-* SolidWorks
-* OpenCV
-* YOLO
-
-## 📂 Projects
-
-I use this profile to document my learning journey and build practical projects.
-
-Some areas I have worked on or am developing include:
-
-* 🛡️ **SafeWatch** — AI-supported emergency CCTV system
-* 🌐 **Web Development** — HTML/CSS projects
-* ⚙️ **Embedded Systems** — Arduino and engineering projects
-* 🐍 **Python** — Programming, automation, and problem-solving
-* 🔧 **Computer Engineering** — Engineering design and technical projects
-* 🔐 **Cybersecurity** — Security-focused projects as I progress through my learning roadmap
-
-## 📚 Learning Philosophy
-
-I believe in learning by **understanding, building, testing, debugging, and improving**.
-
-My goal is not simply to collect certifications, but to develop practical technical skills and demonstrate them through real projects and documented work.
-
-## 🎯 Long-Term Goal
-
-To become a skilled cybersecurity professional and eventually specialize in areas such as **cloud security and AI security**.
+If you're interested in technology, cybersecurity, engineering, or learning in public, feel free to connect.
 
 ---
 
-### 🤝 Let's Connect
-
-I am interested in connecting with students, engineers, cybersecurity professionals, mentors, and organizations where I can learn, contribute, and grow.
+**Building. Learning. Improving.**
